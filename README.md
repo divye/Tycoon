@@ -1,0 +1,2 @@
+# Tycoon
+Everything about Tycoon
