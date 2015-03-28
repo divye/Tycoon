@@ -263,7 +263,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #29088A;
     background-attachment: scroll;
     background-image: url(../img/header-bg.jpg);
     background-position: center center;
@@ -864,5 +864,48 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #fed136;
+}
+
+.lemonade {
+    color: #FFD700;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-style: italic;
+}
+
+.lawn {
+    color: #000;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-style: italic;
+}
+
+
+
+.dog {
+    color: #000;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-style: italic;
+}
+
+.snow {
+    color: #FFD700;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-style: italic;
+}
+.babysitting {
+    color: #FFD700;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-style: italic;
+}
+
+.bg-light-gray {
+    background-image: url("contact.jpg");
+    width: "1200";
+    height: "400";
+}
+
+.vision {
+    background-image: url("vision.jpg");
+     width: "1200";
+    height: "400";
 }
 
