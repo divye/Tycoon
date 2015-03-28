@@ -897,15 +897,14 @@ body {
     font-style: italic;
 }
 
-.bg-light-gray {
-    background-image: url("contact.jpg");
-    width: "1200";
-    height: "400";
-}
 
 .vision {
     background-image: url("vision.jpg");
      width: "1200";
     height: "400";
+}
+
+.prezi {
+    text-align: center;
 }
 
